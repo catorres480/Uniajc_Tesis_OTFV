@@ -1,0 +1,10 @@
+
+
+
+
+Medidor de energia con Arduino o PIC [1/2]
+
+https://www.youtube.com/watch?v=H3WHoV_12Po
+http://electgpl.blogspot.com/2017/01/medidor-de-potencia-ac-sin-amplificador.html
+http://electgpl.blogspot.com.ar/2016/06/medidor-de-potencia-truerms-para-220vac.html
+https://electgpl.blogspot.com.ar/2016/06/medicion-de-senales-simetricas-con-adc.html
