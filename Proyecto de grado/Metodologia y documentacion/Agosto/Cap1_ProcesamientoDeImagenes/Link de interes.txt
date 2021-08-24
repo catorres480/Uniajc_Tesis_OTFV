@@ -1,0 +1,3 @@
+Clasificadores IA
+
+https://bookdown.org/content/2274/metodos-de-clasificacion.html
