@@ -1,0 +1,15 @@
+Filtro mediana
+
+https://la.mathworks.com/help/images/ref/medfilt2.html
+
+Filtro promedio
+
+https://es.mathworks.com/help/images/noise-removal.html
+
+Filtro Gaussiano
+
+https://es.mathworks.com/help/images/ref/imgaussfilt.html
+
+Filtro bilateral.
+
+https://es.mathworks.com/help/images/ref/imbilatfilt.html
